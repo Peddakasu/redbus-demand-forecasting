@@ -19,11 +19,11 @@ The goal of the competition was to **forecast the total number of seats booked f
 ---
 
 ## 📂 Repository Structure
-├── redbus_randomFR_hackthon.ipynb # Jupyter Notebook with full pipeline
-├── submission_file.csv # Final submission file
-├── requirements.txt # Dependencies
-├── README.md # Project description
-└── leaderboardScore.png # Leaderboard screenshot 
+─ redbus_randomFR_hackthon.ipynb # Jupyter Notebook with full pipeline
+─ submission_file.csv # Final submission file
+─ requirements.txt # Dependencies
+─ README.md # Project description
+─ leaderboardScore.png # Leaderboard screenshot 
 
 ---
 
