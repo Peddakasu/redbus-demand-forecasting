@@ -60,13 +60,13 @@ git clone https://github.com/your-username/redbus-demand-forecasting.git
 cd redbus-demand-forecasting
 pip install -r requirements.txt
 
---
+---
 ## 🚀 Usage
 Open the notebook in Jupyter:
 ```bash
 jupyter notebook redbus_randomFR_hackthon.ipynb
 
---
+---
 ## 📌 Requirements
 See requirements.txt for dependencies.
 
